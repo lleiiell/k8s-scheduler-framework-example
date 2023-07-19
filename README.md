@@ -53,3 +53,10 @@ bash getK8sMods.sh 1.20.15
 # MOD: k8s.io/cli-runtime@kubernetes-1.20.15
 # MOD: k8s.io/client-go@kubernetes-1.20.15
 ```
+
+Refer to https://github.com/kubernetes/kubernetes/issues/79384#issuecomment-521493597
+
+## Refs
+
+- https://kubernetes.io/docs/concepts/scheduling-eviction/scheduling-framework/
+- https://www.bookstack.cn/read/kubernetes-1.21-en/3d7d76fe8875d23b.md
